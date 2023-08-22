@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ .messages-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+ }
